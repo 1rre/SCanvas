@@ -1,0 +1,6 @@
+mill.bat
+.vscode/
+.metals/
+.bloop/
+.scalafmt.conf
+out/*
